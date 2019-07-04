@@ -1,4 +1,35 @@
 [
+    {
+    "symbol": "AD",
+    "name": "Asian Dragon",
+    "type": "ERC20",
+    "address": "0xF6dBE88bA55f1793Ff0773c9B1275300f830914F",
+    "ens_address": "",
+    "decimals": 8,
+    "website": "https://www.asiandragoncoin.com",
+    "logo": {
+      "src": "https://www.asiandragoncoin.com/ad/images/Asiandragonlogo-coinmarketcap200x200.png",
+      "width": "200",
+      "height": "200",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "info@asiandragoncoin.com", "url": "https://www.asiandragoncoin.com" },
+    "social": {
+      "blog": "https://asiandragoncoin.wixsite.com/website",
+      "chat": "",
+      "facebook": "https://www.facebook.com/asiandragontech",
+      "forum": "https://bitcointalk.org/index.php?topic=5107135.0",
+      "github": "https://github.com/asiandragoncoin",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/asiandragoncoin/",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/user/asiandragoncoin",
+      "slack": "https://asiandragontechnology.slack.com",
+      "telegram": "https://t.me/adgncoin",
+      "twitter": "https://twitter.com/CoinAsian",
+      "youtube": "https://www.youtube.com/channel/UCHMhJcZdp8bkfPTtLCUU89g"
+    }
+  },
   {
     "symbol": "$FFC",
     "name": "$Fluzcoin",
